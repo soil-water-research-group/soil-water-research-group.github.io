@@ -22,59 +22,25 @@ repository               : "ssoil-water-research-group/soil-water-research-group
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "SSSA_HEadshot.jpg"
+  name             : "Felix Ogunmokun, Ph.D." # The name of the author, e.g. "John Smith"
+  pronouns         : #"He/Him"
+  bio              : "My research focuses on the physical processes of soil and water dynamics, including nutrient and contaminant transport."
+  location         : "Nashville, TN, USA"
+  employer         : "Tennessee State University"
+  url              : "https://www.tnstate.edu/directory.asp?mid=&g=y"
+  email            : "fogunmok@tnstate.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=_-RU2I8AAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0001-5337-7897"
+  researchgate     : "https://www.researchgate.net/profile/Felix-Ogunmokun?ev=hdr_xprf"
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+ 
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  linkedin         : authenticfelix
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
